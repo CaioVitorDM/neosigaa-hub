@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        module: {
+          eventos: "hsl(var(--module-eventos))",
+          materias: "hsl(var(--module-materias))",
+          agenda: "hsl(var(--module-agenda))",
+          forum: "hsl(var(--module-forum))",
+          cursando: "hsl(var(--module-cursando))",
+          notas: "hsl(var(--module-notas))",
+          horarios: "hsl(var(--module-horarios))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
